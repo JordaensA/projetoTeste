@@ -46,7 +46,8 @@ namespace ListaExecicioFixaçao
             foreach(Employee obj in list)
             {
                 Console.WriteLine(obj);
-            } 
+            }
+
         }
     }
 }
